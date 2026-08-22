@@ -2,7 +2,7 @@
 - 👀 I’m interested in Coding
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on machine learning
-- 📫 How to reach me on WhatsApp +233204243510
+- 📫 How to reach me on WhatsApp +233257391659
 
 <!---
 lemuel-tech/lemuel-tech is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
